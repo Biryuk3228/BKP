@@ -91,6 +91,7 @@ img {
 .Textfon {
     color:rgba(0, 0, 0, 0.8);
     font-size: 31px;
+    line-height: 1.5em;
     margin: 45px 0 0 250px;
 }
 
