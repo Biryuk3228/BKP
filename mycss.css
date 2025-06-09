@@ -391,6 +391,7 @@ img {
 }
 
 .carousel-item img {
+    width: 100%;
     display: block;
     margin: auto;
 }
