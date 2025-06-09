@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Автопрокрутка
         function startAutoPlay() {
-            interval = setInterval(next, 70000);
+            interval = setInterval(next, 7000);
         }
         
         function stopAutoPlay() {
