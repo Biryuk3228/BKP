@@ -368,6 +368,7 @@ img {
 
 .proright {
     width: 60%;
+    max-height: 790px;
     display: flex;
     justify-content: center;
     align-items: center;
